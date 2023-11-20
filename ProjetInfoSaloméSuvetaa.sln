@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetInfoSaloméSuvetaa", "ProjetInfoSaloméSuvetaa\ProjetInfoSaloméSuvetaa.csproj", "{FDF13976-84CD-40EA-B0FC-44E6F480FE33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{EC424056-A2BB-4930-BF66-925D360EC356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF13976-84CD-40EA-B0FC-44E6F480FE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF13976-84CD-40EA-B0FC-44E6F480FE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF13976-84CD-40EA-B0FC-44E6F480FE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF13976-84CD-40EA-B0FC-44E6F480FE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC424056-A2BB-4930-BF66-925D360EC356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC424056-A2BB-4930-BF66-925D360EC356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC424056-A2BB-4930-BF66-925D360EC356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC424056-A2BB-4930-BF66-925D360EC356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5721F41E-805F-496C-B814-6818A4B373B6}
+	EndGlobalSection
+EndGlobal
